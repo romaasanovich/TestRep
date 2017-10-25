@@ -1,0 +1,7 @@
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\bin\Debug\Laba_No3.exe.config
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\bin\Debug\Laba_No3.exe
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\bin\Debug\Laba_No3.pdb
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\obj\Debug\Laba_No3.csprojResolveAssemblyReference.cache
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\obj\Debug\Laba_No3.csproj.CoreCompileInputs.cache
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\obj\Debug\Laba_No3.exe
+C:\Users\romaa\Projects\Laba_No3\Laba_No3\obj\Debug\Laba_No3.pdb
